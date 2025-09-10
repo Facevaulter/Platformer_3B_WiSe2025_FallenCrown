@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Workspace/UnrealProjects/Platformer_3B_WiSe2025/Platformer_WiSe2025/Content/BP/BP_Gravestone.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_3B_WiSe2025/Platformer_WiSe2025/Content/Maps/Temple.umap",
+				"D:/Workspace/UnrealProjects/Platformer_3B_WiSe2025/Platformer_WiSe2025/Content/Maps/Temple_Lighting.umap",
+				"D:/Workspace/UnrealProjects/Platformer_3B_WiSe2025/Platformer_WiSe2025/Content/BP/BP_MovingPlatform.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_3B_WiSe2025/Platformer_WiSe2025/Content/BP/BP_MyFirstBlueprint.uasset",
 				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/BP/BP_Pillar.uasset",
 				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Maps/Temple.umap",
 				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Maps/Temple_Lighting.umap",
