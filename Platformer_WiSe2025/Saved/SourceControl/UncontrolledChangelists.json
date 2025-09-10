@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/BP/BP_Pillar.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Maps/Temple.umap",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Maps/Temple_Lighting.umap",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/M_SolidColor.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MI_Green.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MI_Marble.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/M_SolidColor_Inst.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MI_Test.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MI_Test2.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MM_SolidColor.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Material/MM_SolidColorasdasf.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/BP/BP_MyFirstBlueprint.uasset",
+				"D:/Workspace/UnrealProjects/Platformer_WiSe2025/Content/Maps/Light.umap"
+			]
+		}
+	]
+}
